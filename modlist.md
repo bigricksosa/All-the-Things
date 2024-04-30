@@ -99,13 +99,14 @@ Embeddium\
 Embeddium Extras\
 Enchantment Descriptions\
 Entity Culling\
-FTB Library (manual download)\
-FTB Teams (manual download)\
-FTB Quests (manual download)\
-FTB XMod Compat (manual download)\
+FTB Library ![Static Badge](https://img.shields.io/badge/manual%20download-maroon?style=flat)\
+FTB Teams ![Static Badge](https://img.shields.io/badge/manual%20download-maroon?style=flat)\
+FTB Quests ![Static Badge](https://img.shields.io/badge/manual%20download-maroon?style=flat)\
+FTB XMod Compat ![Static Badge](https://img.shields.io/badge/manual%20download-maroon?style=flat)\
 Fabric API\
 Fabric Language Kotlin\
 Falling Leaves\
+Falling Tree\
 FancyMenu\
 Farmer's Delight\
 FerriteCore\
@@ -163,6 +164,7 @@ Oceans' Delight\
 Oculus\
 Open Loader\
 Packet Fixer\
+Patchouli\
 Polymorph\
 Potacore\
 Puzzles Lib\
@@ -176,6 +178,8 @@ Searchables\
 Sinytra Connector\
 Smooth Boot (Reloaded)\
 Sound Physics Remastered\
+Sophisticated Backpacks\
+Sophisticated Core\
 Starlight (Forge)\
 Storage Drawers\
 Structure Gel API\
@@ -196,7 +200,6 @@ Titanium\
 Tom's Simple Storage Mod\
 TorchMaster\
 Trash Cans\
-Traveler's Backpack\
 Trinkets\
 Villager Names\
 Wavey Capes\
